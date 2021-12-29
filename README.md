@@ -10,7 +10,7 @@
 
  - 🔭 I'm currently working on a few self [projects](https://github.com/JadeSleiman?tab=projects)!
  - 🌱 I'm currently learning FullStack Development, Scripting, and Cybersecurity
- - 👯 I'm a Junior at California State University, Northridge majoring in Computer Information Technology. 
+ - 👯 I'm a Senior at California State University, Northridge majoring in Computer Information Technology. 
  - 📫 How to reach me: [linktree](https://linktr.ee/jambasmurf)
  - 😄 Pronouns: she/her
  - ⚡ Fun fact: I have a [YouTube](https://www.youtube.com/channel/UCv4T7eKHxWdgLvZ3ll_BSLQ) where I post short films I make! 
